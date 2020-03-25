@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+<title>blue</title>
+<polygon points="68.595 128 81.149 81.149 34.297 93.703" fill="#3a58a7"/>
+<polygon points="0 59.405 34.297 93.703 46.851 46.851" fill="#3a58a7"/>
+<polygon points="59.405 0 46.851 46.851 93.703 34.297" fill="#3a58a7"/>
+<polygon points="93.703 34.297 81.149 81.149 128 68.595" fill="#3a58a7"/>
+<polygon points="46.851 46.851 34.297 93.703 81.149 81.149 93.703 34.297" fill="#292664"/>
+</svg>
